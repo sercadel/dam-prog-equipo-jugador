@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Jugador
+comment0.text=\r\n\ Una\ clase\ que\ modela\ a\ un\ jugador.\r\n\ \r\n\ @author\ sercadel\ \r\n\ @version\ 0.1\r\n
+comment1.params=nombre\ sueldo
+comment1.target=Jugador(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ Jugador\r\n\ \r\n\ @param\ \ nombre\ \ Nombre\ del\ jugador\r\n\ @param\ \ sueldo\ \ Sueldo\ del\ jugador\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\r\n\ Funci\u00F3n\ que\ devuelve\ el\ nombre\ del\ jugador\r\n\ \r\n\ @return\ \ Nombre\ del\ jugador\r\n
+comment3.params=
+comment3.target=double\ getSueldo()
+comment3.text=\r\n\ Funci\u00F3n\ que\ devuelve\ el\ sueldo\ del\ jugador\r\n\ \r\n\ @return\ \ Sueldo\ del\ jugador\r\n
+comment4.params=
+comment4.target=void\ marcarGol()
+comment4.text=\r\n\ Funci\u00F3n\ que\ suma\ 1\ a\ golesMarcados\ del\ jugador\r\n
+comment5.params=
+comment5.target=int\ getGoles()
+comment5.text=\r\n\ Funci\u00F3n\ que\ devuelve\ los\ goles\ marcados\ del\ jugador\r\n\ \r\n\ @return\ \ Goles\ marcados\ del\ jugador\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Funci\u00F3n\ que\ devuelve\ informaci\u00F3n\ del\ nombre,\ sueldo\ y\ goles\ del\ jugador\r\n\ \r\n\ @return\ \ Cadena\ con\ informaci\u00F3n\ del\ nombre,\ sueldo\ y\ goles\ del\ jugador\r\n
+numComments=7
